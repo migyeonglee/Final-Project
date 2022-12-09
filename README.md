@@ -11,49 +11,19 @@
 ## ERM
 <img src="https://user-images.githubusercontent.com/26360179/196043616-ac2ee3b7-500b-40cf-be25-4c3dcf0ac424.png" width="600"/>
 <hr />
-(아래 개인별 추가 작성이 필요함)
 
-## 💁🏻 팀원 - 개발담당
 
-### Frontend
+## 💁🏻 개발담당 - FE
 
-#### 유승연
 
-- Navbar / footer
-- Main page (carousel bootstrap, slick library)
-- 클래스 / 리스트 / 등록 / 상세 / 결제 페이지
+### 로그인 페이지
 
-- 
-#### 이미경
-- 로그인 페이지
-- 회원가입 페이지 (sweetAlert library)
-- 마이 페이지
-- 레시피 페이지
+![image](https://user-images.githubusercontent.com/97138102/206661187-c48626eb-6e9a-4f8e-8757-527ae861a070.png)
 
-#### 박재희
-- 검색 페이지
+### 회원가입 페이지 (sweetAlert library)
+### 마이 페이지
+### 레시피 페이지
 
-### Backend
-
-#### 박재희
-- ERD 설계, DB 설계
-- Session, Cookie
-- 회원 관련 CRU
-- 클래스 관련 CRUD
-- 검색 관련 R
-- 결제 API (iamport)
-- 채팅 API (channel.io)
-
-#### 김동현
-메인 & 유저 페이지
-- 메인 페이지 레시피 좋아요 순으로 정렬
-- 유저가 작성한 레시피 정렬
-
-레시피 페이지
-- 레시피 등록 및 삭제
-- 카테고리별 레시피 정렬
-- 레시피 좋아요 및 취소 기능
-- 특정 레시피에서의 댓글 기능
 
 
 
