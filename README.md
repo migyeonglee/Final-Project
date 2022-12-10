@@ -109,7 +109,8 @@
   - click event 사용
   
 ##### axios 사용
-  - formData에 담긴 recipe 정보 back으로 
+  - formData에 담긴 recipe 정보 back으로 전송
+  - sweetalert2를 사용하여 성공/실패 알림
 
 
 
