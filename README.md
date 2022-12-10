@@ -73,6 +73,7 @@
 ### 레시피 페이지
 #### Recipe Main Page
 ![image](https://user-images.githubusercontent.com/97138102/206679659-6b3424e8-22bc-4beb-bfc3-c312fe2b86a3.png)
+
 ##### 좋아요 순 정렬
 ##### 더보기 기능
   - load 시 5개씩 보이고 나머지는 숨겨짐
@@ -81,6 +82,7 @@
   - DB에 담긴 data의 수 만큼 recipe 추가
   
 #### Recipe Item Page
+
 <div align=center width=500px> <img src=https://user-images.githubusercontent.com/97138102/206679126-007fcdd5-54ab-4c8e-8652-4d9e22aa8b66.gif> </div>
 
 ##### recipe 좋아요 
@@ -96,10 +98,18 @@
   - load 시 2개씩 보이고 나머지는 숨겨짐
   - 더보기 button 클릭 시 숨겨진 리스트 2개씩 보이도록 설정
 
+#### Recipe Register Page
 
+![ezgif com-gif-maker (41)](https://user-images.githubusercontent.com/97138102/206835076-a837bb13-5690-49de-9ad3-293ce794e7a3.gif)
 
+##### Img File Upload
+  -  FileReader 인스턴스 생성 : 이미지 미리보기
 
-
+##### 순서, 재료 추가 버튼 기능
+  - click event 사용
+  
+##### axios 사용
+  - formData에 담긴 recipe 정보 back으로 
 
 
 
