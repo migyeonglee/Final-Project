@@ -1,6 +1,6 @@
 <div align=center><img src=https://user-images.githubusercontent.com/97138102/206667335-4dc12a7d-59d0-437d-ae5b-2f5d30ceaefa.png ></div>
 
-# 🥪Onetable
+# 🍞Onetable
 
 ### 제빵 레시피 공유 사이트 제작
 
