@@ -29,7 +29,7 @@
     - 8 ~ 20 자리 이내로 입력
     - 영문, 숫자, 특수문자 중 2가지 이상 혼합하여 입력
     - 동일한 문자 4번 이상 연달아 사용 불가능 
-   - password 보이기 기능
+  - password 보이기 기능
     - Uicons Library 사용  -  icon
     - this를 사용하여 eye icon 클릭 시 password show/hide 가능
 #### 가입하기 button 
